@@ -1,0 +1,21 @@
+{
+  "full_name": "Upesh",
+  "name": "upesh",
+  "current_role": "Data Scientist",
+  "location": "Bangalore, India",
+  "email": "jeengarupesh@gmail.com",
+  "linkedin": "linkedin.com/in/upesh-jeengar",
+  "specialties": [
+    "Python",
+    "Machine Learning",
+    "AI"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "B. Tech",
+      "institution": "IIT Guwahati",
+      "year": "2025"
+    }
+  ]
+}
