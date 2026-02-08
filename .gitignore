@@ -39,4 +39,4 @@ venv/
 Thumbs.db
 
 # AWS
-.aws/
+.aws/*.env
