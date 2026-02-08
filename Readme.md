@@ -1,0 +1,2 @@
+# Digital Twin of Upesh
+Digital twin version of me, This repo contains end to end deployment of AI twin of me and it's deployment related scripts on AWS. Deployed it on AWS(Used S3 bucket for frontend& memory of chatbot, lambda services for backend and API gateway to connect everything and then used terraform to do it), we have two versions of LLMs one is calling openAI API and other is using Bedrock.
